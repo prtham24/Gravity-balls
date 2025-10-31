@@ -1,0 +1,12 @@
+->Click anywhere on the canvas to create a ball.
+->Each ball has a random size and random initial velocity.
+->Balls have random colors chosen from a fixed palette.
+->Balls fall downward under gravity.
+->Balls bounce with friction when hitting floor or walls.
+->Balls collide with each other realistically with elastic collisions.
+->If two balls collide and have the same color, they burst (disappear).
+->Bursted balls are removed from the canvas.
+->Each time two balls of the same color burst, the player’s score increases by 1.
+Game Over Condition:
+->If two balls of the same color burst twice in a row consecutively (same color twice consecutively), the game ends.
+->The final score is shown on a Game Over screen.
