@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background: #232323;
+    overflow: hidden;
+}
+canvas {
+    display: block;
+    background: #222;
+    box-shadow: 0 0 16px #111 inset;
+    margin: 0;
+}
+#muteBtn {
+  width: 40px;            
+  height: 40px;
+  font-size: larger;
+  color: #00D100;
+  background-size: contain;  
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;           
+  cursor: pointer;
+  background-color: transparent; 
+}
